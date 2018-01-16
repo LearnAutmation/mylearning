@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testNGLearning" duration-ms="123015" started-at="2018-01-16T18:41:47Z" finished-at="2018-01-16T18:43:50Z">
+    <groups>
+    </groups>
+    <test name="simpleTest" duration-ms="123015" started-at="2018-01-16T18:41:47Z" finished-at="2018-01-16T18:43:50Z">
+      <class name="testpages.manageuserstest">
+        <test-method status="PASS" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="initializeTestBaseSetup" is-config="true" duration-ms="32354" started-at="2018-01-17T00:11:47Z" finished-at="2018-01-17T00:12:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://dev2-cctv.ajilonservices.com.au]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method status="PASS" signature="editt0test()[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="editt0test" duration-ms="6781" started-at="2018-01-17T00:12:20Z" finished-at="2018-01-17T00:12:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editt0test -->
+        <test-method status="PASS" signature="searchT0users()[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="searchT0users" duration-ms="12870" started-at="2018-01-17T00:12:26Z" finished-at="2018-01-17T00:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchT0users -->
+        <test-method status="PASS" signature="creatingt0user1()[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="creatingt0user1" duration-ms="13413" started-at="2018-01-17T00:12:39Z" finished-at="2018-01-17T00:12:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingt0user1 -->
+        <test-method status="PASS" signature="uploadT2users()[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="uploadT2users" duration-ms="26739" started-at="2018-01-17T00:12:53Z" finished-at="2018-01-17T00:13:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadT2users -->
+        <test-method status="PASS" signature="creat1T1users()[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="creat1T1users" duration-ms="22420" started-at="2018-01-17T00:13:19Z" finished-at="2018-01-17T00:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creat1T1users -->
+        <test-method status="PASS" signature="downloadT2uploadTemplate()[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="downloadT2uploadTemplate" duration-ms="8405" started-at="2018-01-17T00:13:42Z" finished-at="2018-01-17T00:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadT2uploadTemplate -->
+      </class> <!-- testpages.manageuserstest -->
+    </test> <!-- simpleTest -->
+  </suite> <!-- testNGLearning -->
+</testng-results>

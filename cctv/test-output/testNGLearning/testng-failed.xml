@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [testNGLearning]">
+  <parameter name="password" value="testpassword"/>
+  <parameter name="appURL" value="https://dev2-cctv.ajilonservices.com.au"/>
+  <parameter name="browserType" value="chrome"/>
+  <listeners>
+    <listener class-name="utils.PriorityInterceptor"/>
+  </listeners>
+  <test name="simpleTest(failed)">
+    <parameter name="password" value="testpassword"/>
+    <parameter name="appURL" value="https://dev2-cctv.ajilonservices.com.au"/>
+    <parameter name="browserType" value="chrome"/>
+    <classes>
+      <class name="testpages.manageuserstest">
+        <methods>
+          <include name="uploadT2users"/>
+          <include name="initializeTestBaseSetup"/>
+          <include name="creat1T1users"/>
+        </methods>
+      </class> <!-- testpages.manageuserstest -->
+    </classes>
+  </test> <!-- simpleTest(failed) -->
+</suite> <!-- Failed suite [testNGLearning] -->

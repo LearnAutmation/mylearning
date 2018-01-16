@@ -1,0 +1,407 @@
+2018-01-16 20:09:52,182 [main] INFO utils.TestBase - log4j setting done
+2018-01-16 20:09:52,187 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-16 20:10:00,281 [main] INFO utils.TestBase - Clicked element-- Proxy element for: DefaultElementLocator 'By.xpath: html/body/section/section/div/div/article/div/div[2]/a'
+2018-01-16 20:10:09,752 [main] INFO utils.TestBase - Clicked element-- Proxy element for: DefaultElementLocator 'By.xpath: html/body/section/div/section/div/form/div[2]/button[1]'
+2018-01-16 20:10:20,229 [main] INFO utils.TestBase - Clicked element-- Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='cred_sign_in_button']'
+2018-01-16 20:10:22,254 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-16 20:10:26,971 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (cbc292292d8dba8f6988c8be748761d7)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 20:10:28,095 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (cbc292292d8dba8f6988c8be748761d7)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-01-16 20:10:28,764 [main] INFO utils.TestBase - Element text is--1 - 6 of 6 items
+2018-01-16 20:10:28,796 [main] INFO utils.TestBase - ****************Search T0 finished ****************
+2018-01-16 20:13:18,410 [main] INFO utils.TestBase - log4j setting done
+2018-01-16 20:13:18,414 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-16 20:13:29,912 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-16 20:13:54,985 [main] INFO utils.TestBase - log4j setting done
+2018-01-16 20:13:54,991 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-16 20:14:07,485 [main] INFO utils.TestBase - Proxy element for: DefaultElementLocator 'By.xpath: html/body/section/section/div/div/article/div/div[2]/a'not foundorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: html/body/section/section/div/div/article/div/div[2]/a' (tried for 9 second(s) with 500 MILLISECONDS interval)
+2018-01-16 20:14:10,569 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-16 20:14:23,050 [main] INFO utils.TestBase - Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='RegistrationPanel']/div/h4/a'not foundorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='RegistrationPanel']/div/h4/a' (tried for 9 second(s) with 500 MILLISECONDS interval)
+2018-01-16 20:15:07,796 [main] INFO utils.TestBase - log4j setting done
+2018-01-16 20:15:07,800 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-16 20:15:13,988 [main] INFO utils.TestBase - Clicked element-- Proxy element for: DefaultElementLocator 'By.xpath: html/body/section/section/div/div/article/div/div[2]/a'
+2018-01-16 20:15:22,104 [main] INFO utils.TestBase - Clicked element-- Proxy element for: DefaultElementLocator 'By.xpath: html/body/section/div/section/div/form/div[2]/button[1]'
+2018-01-16 20:15:31,134 [main] INFO utils.TestBase - Clicked element-- Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='cred_sign_in_button']'
+2018-01-16 20:15:33,161 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-16 20:15:37,628 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (909eddbbcd7cd6d617bba256735dd6e3)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 20:15:38,679 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (909eddbbcd7cd6d617bba256735dd6e3)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-01-16 20:15:39,877 [main] INFO utils.TestBase - Element text is--1 - 6 of 6 items
+2018-01-16 20:15:39,903 [main] INFO utils.TestBase - ****************Search T0 finished ****************
+2018-01-16 20:34:44,352 [main] INFO utils.TestBase - log4j setting done
+2018-01-16 20:34:44,356 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-16 20:34:50,412 [main] INFO utils.TestBase - Clicked element-- Proxy element for: DefaultElementLocator 'By.xpath: html/body/section/section/div/div/article/div/div[2]/a'
+2018-01-16 20:34:56,209 [main] INFO utils.TestBase - Clicked element-- Proxy element for: DefaultElementLocator 'By.xpath: html/body/section/div/section/div/form/div[2]/button[1]'
+2018-01-16 20:35:02,663 [main] INFO utils.TestBase - Clicked element-- Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='cred_sign_in_button']'
+2018-01-16 20:35:02,663 [main] INFO utils.TestBase - ***********Logging in done *************
+2018-01-16 20:35:04,689 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-16 20:35:09,672 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (47ba2bce4f527444d6a92360e5f4b1f0)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 20:35:10,997 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (47ba2bce4f527444d6a92360e5f4b1f0)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-01-16 20:35:11,673 [main] INFO utils.TestBase - Element text is--1 - 6 of 6 items
+2018-01-16 20:35:11,767 [main] INFO utils.TestBase - ****************Search T0 finished ****************
+2018-01-16 21:38:55,806 [main] INFO utils.TestBase - log4j setting done
+2018-01-16 21:38:55,908 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-16 21:39:06,752 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-16 21:39:11,963 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-16 21:39:18,859 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-16 21:39:18,859 [main] INFO utils.TestBase - ***********Logging in done *************
+2018-01-16 21:39:18,883 [main] INFO utils.TestBase - ******** T2 upload started *********
+2018-01-16 21:39:24,808 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 21:39:26,145 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-16 21:39:31,356 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='btnsearchT']]
+2018-01-16 21:39:32,523 [main] INFO utils.TestBase - Selecting upload file
+2018-01-16 21:39:44,949 [main] INFO utils.TestBase - [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='uploadexcel']]not foundorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='uploadexcel']] (tried for 9 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ALOK-PC', ip: '192.168.0.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=D:\Users\Alok\AppData\Local\Temp\scoped_dir10220_23690}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=63.0.3239.132, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b4f3f8dcd5a4aeecb1bc784fd1ebd4cc
+2018-01-16 21:39:45,502 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='dvupload']/div[3]/button[1]]
+2018-01-16 21:39:49,760 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='uploadsuccess']/div/div/div[2]/button]
+2018-01-16 21:39:49,760 [main] INFO utils.TestBase - ********T2 uploaded Successfully*******
+2018-01-16 21:39:49,765 [main] INFO utils.TestBase - ******* T2 template download started********
+2018-01-16 21:39:50,066 [main] INFO utils.TestBase - ************Creating new T1 user**********
+2018-01-16 21:39:54,821 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 21:39:58,998 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-16 21:40:03,178 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//button[@id='btnCrateT1']]
+2018-01-16 21:40:07,631 [main] INFO utils.TestBase - Selected element --Federal Government
+2018-01-16 21:40:10,770 [main] INFO utils.TestBase - ****************Create T0 started****************
+2018-01-16 21:40:14,586 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 21:40:17,783 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: //button[text()='Create New T0 Account']]
+2018-01-16 21:40:19,009 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='btnsubmitT0']]
+2018-01-16 21:40:22,114 [main] INFO utils.TestBase - Element text is--T0 account T000005968 has been created.
+The account number and temporary password has been sent to alok.rai@itcinfotech.com
+2018-01-16 21:40:22,239 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='userT0Msg']/div/div/div[2]/button]
+2018-01-16 21:40:22,239 [main] INFO utils.TestBase - ****************Create T0 finished****************
+2018-01-16 21:40:26,248 [main] INFO utils.TestBase - ****************Started editing t0****************
+2018-01-16 21:40:28,736 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='searchPanel']/div/h4/a]
+2018-01-16 21:40:28,883 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@value="Edit Profile"]]
+2018-01-16 21:40:29,719 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='dvupdateT0user']/div/div/div[2]/input[3]]
+2018-01-16 21:40:29,720 [main] INFO utils.TestBase - ****************editing t0 done****************
+2018-01-16 21:40:31,726 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-16 21:40:36,084 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 21:40:37,500 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (b4f3f8dcd5a4aeecb1bc784fd1ebd4cc)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-01-16 21:40:38,123 [main] INFO utils.TestBase - Element text is--1 - 6 of 6 items
+2018-01-16 21:40:38,136 [main] INFO utils.TestBase - ****************Search T0 finished ****************
+2018-01-16 22:59:10,408 [main] INFO utils.TestBase - log4j setting done
+2018-01-16 22:59:10,424 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-16 22:59:20,256 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-16 22:59:24,862 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-16 22:59:31,102 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-16 22:59:31,103 [main] INFO utils.TestBase - ***********Logging in done *************
+2018-01-16 22:59:31,141 [main] INFO utils.TestBase - ******** T2 upload started *********
+2018-01-16 22:59:37,868 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 22:59:39,007 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-16 22:59:44,241 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='btnsearchT']]
+2018-01-16 22:59:45,468 [main] INFO utils.TestBase - Selecting upload file
+2018-01-16 22:59:57,826 [main] INFO utils.TestBase - [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='uploadexcel']]not foundorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='uploadexcel']] (tried for 9 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ALOK-PC', ip: '192.168.0.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=D:\Users\Alok\AppData\Local\Temp\scoped_dir6776_28247}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=63.0.3239.132, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bbcf24046e48a3741db5aa14e8542826
+2018-01-16 22:59:58,129 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='dvupload']/div[3]/button[1]]
+2018-01-16 23:00:00,352 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='uploadsuccess']/div/div/div[2]/button]
+2018-01-16 23:00:00,352 [main] INFO utils.TestBase - ********T2 uploaded Successfully*******
+2018-01-16 23:00:00,359 [main] INFO utils.TestBase - ******* T2 template download started********
+2018-01-16 23:00:00,536 [main] INFO utils.TestBase - ************Creating new T1 user**********
+2018-01-16 23:00:02,655 [main] INFO utils.TestBase - ****************Create T0 started****************
+2018-01-16 23:00:06,298 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:00:09,566 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: //button[text()='Create New T0 Account']]
+2018-01-16 23:00:10,795 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='btnsubmitT0']]
+2018-01-16 23:00:13,947 [main] INFO utils.TestBase - Element text is--T0 account T000005973 has been created.
+The account number and temporary password has been sent to alok.rai@itcinfotech.com
+2018-01-16 23:00:14,137 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='userT0Msg']/div/div/div[2]/button]
+2018-01-16 23:00:14,140 [main] INFO utils.TestBase - ****************Create T0 finished****************
+2018-01-16 23:00:18,144 [main] INFO utils.TestBase - ****************Started editing t0****************
+2018-01-16 23:00:19,790 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='searchPanel']/div/h4/a]
+2018-01-16 23:00:19,927 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@value="Edit Profile"]]
+2018-01-16 23:00:20,844 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='dvupdateT0user']/div/div/div[2]/input[3]]
+2018-01-16 23:00:20,845 [main] INFO utils.TestBase - ****************editing t0 done****************
+2018-01-16 23:00:22,864 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-16 23:00:26,556 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:00:27,952 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (bbcf24046e48a3741db5aa14e8542826)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-01-16 23:00:28,584 [main] INFO utils.TestBase - Element text is--1 - 6 of 6 items
+2018-01-16 23:00:28,601 [main] INFO utils.TestBase - ****************Search T0 finished ****************
+2018-01-16 23:04:58,535 [main] INFO utils.TestBase - log4j setting done
+2018-01-16 23:04:58,542 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-16 23:05:05,223 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (8cec4312da2b42757aa88ac6afb2a4e9)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-16 23:05:09,215 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (8cec4312da2b42757aa88ac6afb2a4e9)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-16 23:05:15,808 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (8cec4312da2b42757aa88ac6afb2a4e9)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-16 23:05:15,808 [main] INFO utils.TestBase - ***********Logging in done *************
+2018-01-16 23:05:19,822 [main] INFO utils.TestBase - ****************Started editing t0****************
+2018-01-16 23:05:21,465 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (8cec4312da2b42757aa88ac6afb2a4e9)] -> xpath: .//*[@id='searchPanel']/div/h4/a]
+2018-01-16 23:05:21,595 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (8cec4312da2b42757aa88ac6afb2a4e9)] -> xpath: .//*[@value="Edit Profile"]]
+2018-01-16 23:05:22,526 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (8cec4312da2b42757aa88ac6afb2a4e9)] -> xpath: .//*[@id='dvupdateT0user']/div/div/div[2]/input[3]]
+2018-01-16 23:05:22,527 [main] INFO utils.TestBase - ****************editing t0 done****************
+2018-01-16 23:05:24,536 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-16 23:05:28,147 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (8cec4312da2b42757aa88ac6afb2a4e9)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:05:29,591 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (8cec4312da2b42757aa88ac6afb2a4e9)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-01-16 23:05:30,228 [main] INFO utils.TestBase - Element text is--1 - 6 of 6 items
+2018-01-16 23:05:30,243 [main] INFO utils.TestBase - ****************Search T0 finished ****************
+2018-01-16 23:05:37,265 [main] INFO utils.TestBase - ****************Create T0 started****************
+2018-01-16 23:05:41,121 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (8cec4312da2b42757aa88ac6afb2a4e9)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:05:44,393 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (8cec4312da2b42757aa88ac6afb2a4e9)] -> xpath: //button[text()='Create New T0 Account']]
+2018-01-16 23:05:45,624 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (8cec4312da2b42757aa88ac6afb2a4e9)] -> xpath: .//*[@id='btnsubmitT0']]
+2018-01-16 23:05:49,835 [main] INFO utils.TestBase - Element text is--T0 account T000005974 has been created.
+The account number and temporary password has been sent to alok.rai@itcinfotech.com
+2018-01-16 23:05:49,994 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (8cec4312da2b42757aa88ac6afb2a4e9)] -> xpath: .//*[@id='userT0Msg']/div/div/div[2]/button]
+2018-01-16 23:05:49,994 [main] INFO utils.TestBase - ****************Create T0 finished****************
+2018-01-16 23:05:50,007 [main] INFO utils.TestBase - ******** T2 upload started *********
+2018-01-16 23:05:50,128 [main] INFO utils.TestBase - ************Creating new T1 user**********
+2018-01-16 23:05:50,207 [main] INFO utils.TestBase - ******* T2 template download started********
+2018-01-16 23:09:36,090 [main] INFO utils.TestBase - log4j setting done
+2018-01-16 23:09:36,106 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-16 23:09:42,589 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (559f243d36db898f78daa613c3352834)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-16 23:09:48,229 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (559f243d36db898f78daa613c3352834)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-16 23:09:54,415 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (559f243d36db898f78daa613c3352834)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-16 23:09:54,416 [main] INFO utils.TestBase - ***********Logging in done *************
+2018-01-16 23:09:58,432 [main] INFO utils.TestBase - ****************Started editing t0****************
+2018-01-16 23:10:02,427 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (559f243d36db898f78daa613c3352834)] -> xpath: .//*[@id='searchPanel']/div/h4/a]
+2018-01-16 23:10:02,575 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (559f243d36db898f78daa613c3352834)] -> xpath: .//*[@value="Edit Profile"]]
+2018-01-16 23:10:03,488 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (559f243d36db898f78daa613c3352834)] -> xpath: .//*[@id='dvupdateT0user']/div/div/div[2]/input[3]]
+2018-01-16 23:10:03,488 [main] INFO utils.TestBase - ****************editing t0 done****************
+2018-01-16 23:10:05,492 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-16 23:10:09,681 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (559f243d36db898f78daa613c3352834)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:10:11,111 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (559f243d36db898f78daa613c3352834)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-01-16 23:10:11,762 [main] INFO utils.TestBase - Element text is--1 - 6 of 6 items
+2018-01-16 23:10:11,778 [main] INFO utils.TestBase - ****************Search T0 finished ****************
+2018-01-16 23:10:18,799 [main] INFO utils.TestBase - ****************Create T0 started****************
+2018-01-16 23:10:24,105 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (559f243d36db898f78daa613c3352834)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:10:27,320 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (559f243d36db898f78daa613c3352834)] -> xpath: //button[text()='Create New T0 Account']]
+2018-01-16 23:10:28,628 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (559f243d36db898f78daa613c3352834)] -> xpath: .//*[@id='btnsubmitT0']]
+2018-01-16 23:10:31,782 [main] INFO utils.TestBase - Element text is--T0 account T000005975 has been created.
+The account number and temporary password has been sent to alok.rai@itcinfotech.com
+2018-01-16 23:10:31,941 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (559f243d36db898f78daa613c3352834)] -> xpath: .//*[@id='userT0Msg']/div/div/div[2]/button]
+2018-01-16 23:10:31,941 [main] INFO utils.TestBase - ****************Create T0 finished****************
+2018-01-16 23:10:31,949 [main] INFO utils.TestBase - ******** T2 upload started *********
+2018-01-16 23:10:32,074 [main] INFO utils.TestBase - ************Creating new T1 user**********
+2018-01-16 23:10:32,149 [main] INFO utils.TestBase - ******* T2 template download started********
+2018-01-16 23:19:34,788 [main] INFO utils.TestBase - log4j setting done
+2018-01-16 23:19:34,788 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-16 23:19:39,852 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-16 23:19:44,023 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-16 23:19:53,903 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-16 23:19:53,904 [main] INFO utils.TestBase - ***********Logging in done *************
+2018-01-16 23:19:57,916 [main] INFO utils.TestBase - ****************Started editing t0****************
+2018-01-16 23:19:59,900 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: .//*[@id='searchPanel']/div/h4/a]
+2018-01-16 23:20:00,050 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: .//*[@value="Edit Profile"]]
+2018-01-16 23:20:00,953 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: .//*[@id='dvupdateT0user']/div/div/div[2]/input[3]]
+2018-01-16 23:20:00,953 [main] INFO utils.TestBase - ****************editing t0 done****************
+2018-01-16 23:20:02,971 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-16 23:20:07,000 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:20:08,473 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-01-16 23:20:09,111 [main] INFO utils.TestBase - Element text is--1 - 6 of 6 items
+2018-01-16 23:20:09,142 [main] INFO utils.TestBase - ****************Search T0 finished ****************
+2018-01-16 23:20:16,174 [main] INFO utils.TestBase - ****************Create T0 started****************
+2018-01-16 23:20:20,772 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:20:24,005 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: //button[text()='Create New T0 Account']]
+2018-01-16 23:20:25,310 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: .//*[@id='btnsubmitT0']]
+2018-01-16 23:20:28,464 [main] INFO utils.TestBase - Element text is--T0 account T000005976 has been created.
+The account number and temporary password has been sent to alok.rai@itcinfotech.com
+2018-01-16 23:20:28,624 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: .//*[@id='userT0Msg']/div/div/div[2]/button]
+2018-01-16 23:20:28,625 [main] INFO utils.TestBase - ****************Create T0 finished****************
+2018-01-16 23:20:28,635 [main] INFO utils.TestBase - ******** T2 upload started *********
+2018-01-16 23:20:28,776 [main] INFO utils.TestBase - ************Creating new T1 user**********
+2018-01-16 23:20:28,859 [main] INFO utils.TestBase - ******* T2 template download started********
+2018-01-16 23:20:32,722 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:20:35,926 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-16 23:20:36,858 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (fd35aceb8d28a21bd11c171713c22069)] -> xpath: .//*[@href='/Content/Excel/Bulk Upload Template for T2 User.xlsx']]
+2018-01-16 23:20:36,859 [main] INFO utils.TestBase - ******* T2 template download finished********
+2018-01-16 23:28:23,461 [main] INFO utils.TestBase - log4j setting done
+2018-01-16 23:28:23,461 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-16 23:28:27,014 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-16 23:28:31,052 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-16 23:28:36,860 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-16 23:28:36,861 [main] INFO utils.TestBase - ***********Logging in done *************
+2018-01-16 23:28:40,894 [main] INFO utils.TestBase - ****************Started editing t0****************
+2018-01-16 23:28:42,586 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: .//*[@id='searchPanel']/div/h4/a]
+2018-01-16 23:28:42,722 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: .//*[@value="Edit Profile"]]
+2018-01-16 23:28:43,665 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: .//*[@id='dvupdateT0user']/div/div/div[2]/input[3]]
+2018-01-16 23:28:43,666 [main] INFO utils.TestBase - ****************editing t0 done****************
+2018-01-16 23:28:45,680 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-16 23:28:49,284 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:28:50,760 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-01-16 23:28:51,392 [main] INFO utils.TestBase - Element text is--1 - 6 of 6 items
+2018-01-16 23:28:51,408 [main] INFO utils.TestBase - ****************Search T0 finished ****************
+2018-01-16 23:28:58,436 [main] INFO utils.TestBase - ****************Create T0 started****************
+2018-01-16 23:29:02,129 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:29:05,369 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: //button[text()='Create New T0 Account']]
+2018-01-16 23:29:06,741 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: .//*[@id='btnsubmitT0']]
+2018-01-16 23:29:09,891 [main] INFO utils.TestBase - Element text is--T0 account T000005977 has been created.
+The account number and temporary password has been sent to alok.rai@itcinfotech.com
+2018-01-16 23:29:10,057 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: .//*[@id='userT0Msg']/div/div/div[2]/button]
+2018-01-16 23:29:10,058 [main] INFO utils.TestBase - ****************Create T0 finished****************
+2018-01-16 23:29:10,069 [main] INFO utils.TestBase - ******** T2 upload started *********
+2018-01-16 23:29:10,268 [main] INFO utils.TestBase - ************Creating new T1 user**********
+2018-01-16 23:29:10,349 [main] INFO utils.TestBase - ******* T2 template download started********
+2018-01-16 23:29:14,222 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:29:17,457 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-16 23:29:18,697 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (c9b9dc5e3a4adb2b2fe4ad98a9a7bf6e)] -> xpath: .//*[@href='/Content/Excel/Bulk Upload Template for T2 User.xlsx']]
+2018-01-16 23:29:18,700 [main] INFO utils.TestBase - ******* T2 template download finished********
+2018-01-16 23:31:14,727 [main] INFO utils.TestBase - log4j setting done
+2018-01-16 23:31:14,727 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-16 23:31:20,109 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-16 23:31:24,814 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-16 23:31:30,491 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-16 23:31:30,492 [main] INFO utils.TestBase - ***********Logging in done *************
+2018-01-16 23:31:34,503 [main] INFO utils.TestBase - ****************Started editing t0****************
+2018-01-16 23:31:36,438 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='searchPanel']/div/h4/a]
+2018-01-16 23:31:36,535 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@value="Edit Profile"]]
+2018-01-16 23:31:37,502 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='dvupdateT0user']/div/div/div[2]/input[3]]
+2018-01-16 23:31:37,502 [main] INFO utils.TestBase - ****************editing t0 done****************
+2018-01-16 23:31:39,519 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-16 23:31:43,693 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:31:45,136 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-01-16 23:31:45,775 [main] INFO utils.TestBase - Element text is--1 - 6 of 6 items
+2018-01-16 23:31:45,790 [main] INFO utils.TestBase - ****************Search T0 finished ****************
+2018-01-16 23:31:52,831 [main] INFO utils.TestBase - ****************Create T0 started****************
+2018-01-16 23:31:56,749 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:31:59,978 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: //button[text()='Create New T0 Account']]
+2018-01-16 23:32:01,250 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='btnsubmitT0']]
+2018-01-16 23:32:04,398 [main] INFO utils.TestBase - Element text is--T0 account T000005978 has been created.
+The account number and temporary password has been sent to alok.rai@itcinfotech.com
+2018-01-16 23:32:04,560 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='userT0Msg']/div/div/div[2]/button]
+2018-01-16 23:32:04,560 [main] INFO utils.TestBase - ****************Create T0 finished****************
+2018-01-16 23:32:04,570 [main] INFO utils.TestBase - ******** T2 upload started *********
+2018-01-16 23:32:12,695 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:32:18,923 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-16 23:32:25,160 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='btnsearchT']]
+2018-01-16 23:32:28,368 [main] INFO utils.TestBase - Selecting upload file
+2018-01-16 23:32:40,693 [main] INFO utils.TestBase - [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='uploadexcel']]not foundorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='uploadexcel']] (tried for 9 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ALOK-PC', ip: '192.168.0.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=D:\Users\Alok\AppData\Local\Temp\scoped_dir5208_12749}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=63.0.3239.132, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5fb93d7657e846e3f9d976fb80ebc064
+2018-01-16 23:32:41,014 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='dvupload']/div[3]/button[1]]
+2018-01-16 23:32:43,244 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='uploadsuccess']/div/div/div[2]/button]
+2018-01-16 23:32:43,244 [main] INFO utils.TestBase - ********T2 uploaded Successfully*******
+2018-01-16 23:32:43,248 [main] INFO utils.TestBase - ************Creating new T1 user**********
+2018-01-16 23:32:50,858 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:32:59,103 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-16 23:33:03,351 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//button[@id='btnCrateT1']]
+2018-01-16 23:33:07,662 [main] INFO utils.TestBase - Selected element --Federal Government
+2018-01-16 23:33:09,302 [main] INFO utils.TestBase - Selected element --Dell
+2018-01-16 23:33:11,464 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='cameraPermission1T1']]
+2018-01-16 23:33:11,597 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@name="viewConnectedCamerasT1"]]
+2018-01-16 23:33:11,811 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='btnsubmitT1']]
+2018-01-16 23:33:15,943 [main] INFO utils.TestBase - Element text is--T1 Account T100005980 has been created.
+The account number and temporary password has been sent to friend9831@gmail.com
+2018-01-16 23:33:19,174 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='userT1Msg']/div/div/div[2]/button]
+2018-01-16 23:33:19,175 [main] INFO utils.TestBase - ************New T1 user crrated**********
+2018-01-16 23:33:19,180 [main] INFO utils.TestBase - ******* T2 template download started********
+2018-01-16 23:33:24,083 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:33:27,310 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-16 23:33:28,253 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (5fb93d7657e846e3f9d976fb80ebc064)] -> xpath: .//*[@href='/Content/Excel/Bulk Upload Template for T2 User.xlsx']]
+2018-01-16 23:33:28,254 [main] INFO utils.TestBase - ******* T2 template download finished********
+2018-01-16 23:39:42,578 [main] INFO utils.TestBase - log4j setting done
+2018-01-16 23:39:42,594 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-16 23:39:45,246 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-16 23:39:50,510 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-16 23:39:56,837 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-16 23:39:56,837 [main] INFO utils.TestBase - ***********Logging in done *************
+2018-01-16 23:40:00,858 [main] INFO utils.TestBase - ****************Started editing t0****************
+2018-01-16 23:40:02,852 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='searchPanel']/div/h4/a]
+2018-01-16 23:40:02,991 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@value="Edit Profile"]]
+2018-01-16 23:40:03,929 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='dvupdateT0user']/div/div/div[2]/input[3]]
+2018-01-16 23:40:03,929 [main] INFO utils.TestBase - ****************editing t0 done****************
+2018-01-16 23:40:05,942 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-16 23:40:10,077 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:40:11,581 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-01-16 23:40:12,217 [main] INFO utils.TestBase - Element text is--1 - 6 of 6 items
+2018-01-16 23:40:12,232 [main] INFO utils.TestBase - ****************Search T0 finished ****************
+2018-01-16 23:40:19,249 [main] INFO utils.TestBase - ****************Create T0 started****************
+2018-01-16 23:40:22,851 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:40:26,093 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: //button[text()='Create New T0 Account']]
+2018-01-16 23:40:27,340 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='btnsubmitT0']]
+2018-01-16 23:40:30,496 [main] INFO utils.TestBase - Element text is--T0 account T000005981 has been created.
+The account number and temporary password has been sent to alok.rai@itcinfotech.com
+2018-01-16 23:40:30,659 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='userT0Msg']/div/div/div[2]/button]
+2018-01-16 23:40:30,659 [main] INFO utils.TestBase - ****************Create T0 finished****************
+2018-01-16 23:40:30,669 [main] INFO utils.TestBase - ******** T2 upload started *********
+2018-01-16 23:40:38,093 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:40:38,805 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-16 23:40:39,490 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='btnsearchT']]
+2018-01-16 23:40:42,735 [main] INFO utils.TestBase - Selecting upload file
+2018-01-16 23:40:54,964 [main] INFO utils.TestBase - [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='uploadexcel']]not foundorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='uploadexcel']] (tried for 9 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ALOK-PC', ip: '192.168.0.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=D:\Users\Alok\AppData\Local\Temp\scoped_dir10576_3320}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=63.0.3239.132, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6a6a8f44fc26b78f0ea4318f51f0b010
+2018-01-16 23:40:55,268 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='dvupload']/div[3]/button[1]]
+2018-01-16 23:40:58,031 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='uploadsuccess']/div/div/div[2]/button]
+2018-01-16 23:40:58,031 [main] INFO utils.TestBase - ********T2 uploaded Successfully*******
+2018-01-16 23:40:58,036 [main] INFO utils.TestBase - ************Creating new T1 user**********
+2018-01-16 23:41:05,363 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:41:06,045 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-16 23:41:06,738 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//button[@id='btnCrateT1']]
+2018-01-16 23:41:11,001 [main] INFO utils.TestBase - Selected element --Federal Government
+2018-01-16 23:41:11,368 [main] INFO utils.TestBase - Selected element --Dell
+2018-01-16 23:41:13,372 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='cameraPermission1T1']]
+2018-01-16 23:41:13,506 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@name="viewConnectedCamerasT1"]]
+2018-01-16 23:41:13,660 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='btnsubmitT1']]
+2018-01-16 23:41:17,804 [main] INFO utils.TestBase - Element text is--T1 Account T100005983 has been created.
+The account number and temporary password has been sent to friend9831@gmail.com
+2018-01-16 23:41:21,056 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='userT1Msg']/div/div/div[2]/button]
+2018-01-16 23:41:21,057 [main] INFO utils.TestBase - ************New T1 user crrated**********
+2018-01-16 23:41:21,063 [main] INFO utils.TestBase - ******* T2 template download started********
+2018-01-16 23:41:25,837 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-16 23:41:29,085 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-16 23:41:30,017 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (6a6a8f44fc26b78f0ea4318f51f0b010)] -> xpath: .//*[@href='/Content/Excel/Bulk Upload Template for T2 User.xlsx']]
+2018-01-16 23:41:30,018 [main] INFO utils.TestBase - ******* T2 template download finished********
+2018-01-17 00:12:01,926 [main] INFO utils.TestBase - log4j setting done
+2018-01-17 00:12:01,926 [main] INFO utils.TestBase - ***********Started logging in **********
+2018-01-17 00:12:07,806 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-17 00:12:13,937 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-17 00:12:20,054 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-17 00:12:20,055 [main] INFO utils.TestBase - ***********Logging in done *************
+2018-01-17 00:12:24,074 [main] INFO utils.TestBase - ****************Started editing t0****************
+2018-01-17 00:12:25,740 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='searchPanel']/div/h4/a]
+2018-01-17 00:12:25,877 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@value="Edit Profile"]]
+2018-01-17 00:12:26,838 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='dvupdateT0user']/div/div/div[2]/input[3]]
+2018-01-17 00:12:26,839 [main] INFO utils.TestBase - ****************editing t0 done****************
+2018-01-17 00:12:28,857 [main] INFO utils.TestBase - ****************Search T0 started ****************
+2018-01-17 00:12:32,573 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-17 00:12:34,058 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-01-17 00:12:34,680 [main] INFO utils.TestBase - Element text is--1 - 6 of 6 items
+2018-01-17 00:12:34,696 [main] INFO utils.TestBase - ****************Search T0 finished ****************
+2018-01-17 00:12:41,721 [main] INFO utils.TestBase - ****************Create T0 started****************
+2018-01-17 00:12:45,355 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-17 00:12:48,573 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: //button[text()='Create New T0 Account']]
+2018-01-17 00:12:49,814 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='btnsubmitT0']]
+2018-01-17 00:12:52,966 [main] INFO utils.TestBase - Element text is--T0 account T000005984 has been created.
+The account number and temporary password has been sent to alok.rai@itcinfotech.com
+2018-01-17 00:12:53,123 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='userT0Msg']/div/div/div[2]/button]
+2018-01-17 00:12:53,123 [main] INFO utils.TestBase - ****************Create T0 finished****************
+2018-01-17 00:12:53,131 [main] INFO utils.TestBase - ******** T2 upload started *********
+2018-01-17 00:13:00,027 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-17 00:13:00,743 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-17 00:13:01,420 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='btnsearchT']]
+2018-01-17 00:13:04,663 [main] INFO utils.TestBase - Selecting upload file
+2018-01-17 00:13:16,759 [main] INFO utils.TestBase - [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='uploadexcel']]not foundorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='uploadexcel']] (tried for 9 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ALOK-PC', ip: '192.168.0.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=D:\Users\Alok\AppData\Local\Temp\scoped_dir10492_8579}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=63.0.3239.132, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f20fd6ef1d380270507b1605b74aad38
+2018-01-17 00:13:17,112 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='dvupload']/div[3]/button[1]]
+2018-01-17 00:13:19,864 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='uploadsuccess']/div/div/div[2]/button]
+2018-01-17 00:13:19,864 [main] INFO utils.TestBase - ********T2 uploaded Successfully*******
+2018-01-17 00:13:19,871 [main] INFO utils.TestBase - ************Creating new T1 user**********
+2018-01-17 00:13:26,611 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-17 00:13:27,277 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-17 00:13:27,967 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//button[@id='btnCrateT1']]
+2018-01-17 00:13:32,212 [main] INFO utils.TestBase - Selected element --Federal Government
+2018-01-17 00:13:32,545 [main] INFO utils.TestBase - Selected element --Dell
+2018-01-17 00:13:34,599 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='cameraPermission1T1']]
+2018-01-17 00:13:34,762 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@name="viewConnectedCamerasT1"]]
+2018-01-17 00:13:34,945 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='btnsubmitT1']]
+2018-01-17 00:13:39,094 [main] INFO utils.TestBase - Element text is--T1 Account T100005986 has been created.
+The account number and temporary password has been sent to friend9831@gmail.com
+2018-01-17 00:13:42,286 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='userT1Msg']/div/div/div[2]/button]
+2018-01-17 00:13:42,287 [main] INFO utils.TestBase - ************New T1 user crrated**********
+2018-01-17 00:13:42,301 [main] INFO utils.TestBase - ******* T2 template download started********
+2018-01-17 00:13:46,545 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-17 00:13:49,799 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
+2018-01-17 00:13:50,695 [main] INFO utils.TestBase - Clicked element-- [[ChromeDriver: chrome on XP (f20fd6ef1d380270507b1605b74aad38)] -> xpath: .//*[@href='/Content/Excel/Bulk Upload Template for T2 User.xlsx']]
+2018-01-17 00:13:50,696 [main] INFO utils.TestBase - ******* T2 template download finished********
