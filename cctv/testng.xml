@@ -9,7 +9,7 @@
 
 		<classes>
 
-			<class name="testpages.manageuserstest" />
+			<class name="testpages.T0testCases" />
 
 		</classes>
 	</test>
@@ -18,8 +18,8 @@
 	<listeners>
 
 
-<!-- 	<listener class-name="utils.TestListener" />     -->
-		<listener class-name="utils.PriorityInterceptor" />
+		<listener class-name="utils.TestListener" />
+		<!-- <listener class-name="utils.PriorityInterceptor" /> -->
 
 	</listeners>
 
