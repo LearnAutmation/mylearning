@@ -5,20 +5,19 @@
   <parameter name="appURL" value="https://dev2-cctv.ajilonservices.com.au"/>
   <parameter name="browserType" value="chrome"/>
   <listeners>
-    <listener class-name="utils.PriorityInterceptor"/>
+    <listener class-name="utils.TestListener"/>
   </listeners>
   <test name="simpleTest(failed)">
     <parameter name="password" value="testpassword"/>
     <parameter name="appURL" value="https://dev2-cctv.ajilonservices.com.au"/>
     <parameter name="browserType" value="chrome"/>
     <classes>
-      <class name="testpages.manageuserstest">
+      <class name="testpages.AlertAndActionsTestCases">
         <methods>
-          <include name="uploadT2users"/>
           <include name="initializeTestBaseSetup"/>
-          <include name="creat1T1users"/>
+          <include name="searchAlerts"/>
         </methods>
-      </class> <!-- testpages.manageuserstest -->
+      </class> <!-- testpages.AlertAndActionsTestCases -->
     </classes>
   </test> <!-- simpleTest(failed) -->
 </suite> <!-- Failed suite [testNGLearning] -->

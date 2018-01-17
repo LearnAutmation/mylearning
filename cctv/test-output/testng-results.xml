@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="6" passed="6">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="testNGLearning" duration-ms="118849" started-at="2018-01-17T13:50:47Z" finished-at="2018-01-17T13:52:45Z">
+  <suite name="testNGLearning" duration-ms="95733" started-at="2018-01-17T17:52:22Z" finished-at="2018-01-17T17:53:58Z">
     <groups>
     </groups>
-    <test name="simpleTest" duration-ms="118849" started-at="2018-01-17T13:50:47Z" finished-at="2018-01-17T13:52:45Z">
-      <class name="testpages.manageuserstest">
-        <test-method status="PASS" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="initializeTestBaseSetup" is-config="true" duration-ms="25791" started-at="2018-01-17T19:20:47Z" finished-at="2018-01-17T19:21:12Z">
+    <test name="simpleTest" duration-ms="95733" started-at="2018-01-17T17:52:22Z" finished-at="2018-01-17T17:53:58Z">
+      <class name="testpages.AlertAndActionsTestCases">
+        <test-method status="PASS" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:testpages.AlertAndActionsTestCases@6e6c3152]" name="initializeTestBaseSetup" is-config="true" duration-ms="41284" started-at="2018-01-17T23:22:22Z" finished-at="2018-01-17T23:23:03Z">
           <params>
             <param index="0">
               <value>
@@ -23,31 +23,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeTestBaseSetup -->
-        <test-method status="PASS" signature="editt0test()[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="editt0test" duration-ms="6849" started-at="2018-01-17T19:21:12Z" finished-at="2018-01-17T19:21:19Z">
+        <test-method status="PASS" signature="searchAlerts()[pri:0, instance:testpages.AlertAndActionsTestCases@6e6c3152]" name="searchAlerts" duration-ms="54064" started-at="2018-01-17T23:23:03Z" finished-at="2018-01-17T23:23:57Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- editt0test -->
-        <test-method status="PASS" signature="searchT0users()[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="searchT0users" duration-ms="13556" started-at="2018-01-17T19:21:19Z" finished-at="2018-01-17T19:21:33Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- searchT0users -->
-        <test-method status="PASS" signature="creatingt0user1()[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="creatingt0user1" duration-ms="13685" started-at="2018-01-17T19:21:33Z" finished-at="2018-01-17T19:21:46Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- creatingt0user1 -->
-        <test-method status="PASS" signature="uploadT2users()[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="uploadT2users" duration-ms="26938" started-at="2018-01-17T19:21:46Z" finished-at="2018-01-17T19:22:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- uploadT2users -->
-        <test-method status="PASS" signature="creat1T1users()[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="creat1T1users" duration-ms="23078" started-at="2018-01-17T19:22:13Z" finished-at="2018-01-17T19:22:36Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- creat1T1users -->
-        <test-method status="PASS" signature="downloadT2uploadTemplate()[pri:0, instance:testpages.manageuserstest@1dfe2924]" name="downloadT2uploadTemplate" duration-ms="8904" started-at="2018-01-17T19:22:36Z" finished-at="2018-01-17T19:22:45Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- downloadT2uploadTemplate -->
-      </class> <!-- testpages.manageuserstest -->
+        </test-method> <!-- searchAlerts -->
+      </class> <!-- testpages.AlertAndActionsTestCases -->
     </test> <!-- simpleTest -->
   </suite> <!-- testNGLearning -->
 </testng-results>

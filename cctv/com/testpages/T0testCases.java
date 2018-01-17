@@ -36,4 +36,43 @@ public class T0testCases extends TestBase{
 		manage1.creatingt0user("alok.rai@itcinfotech.com", "Alok", "Rai", "12345888888");
 
 	}
+	
+	/*@DataProvider(name="empLogin")
+	public Object[][] loginData() {
+		Object[][] arrayObject = getExcelData("D:/sampledoc.xls","Sheet1");
+		return arrayObject;
+	}
+	
+	public String[][] getExcelData(String fileName, String sheetName) {
+		String[][] arrayExcelData = null;
+		try {
+			FileInputStream fs = new FileInputStream(fileName);
+			XSSFWorkbook workbook = new XSSFWorkbook (fs);
+			//Get first sheet from the workbook
+			XSSFSheet sh = workbook.getSheet(sheetName);
+			
+			
+			int totalNoOfCols = sh.getLastRowNum();
+			int totalNoOfRows = sh.getRows();
+			
+			arrayExcelData = new String[totalNoOfRows-1][totalNoOfCols];
+			
+			for (int i= 1 ; i < totalNoOfRows; i++) {
+
+				for (int j=0; j < totalNoOfCols; j++) {
+					arrayExcelData[i-1][j] = sh.getCell(j, i).getContents();
+				}
+				
+			}
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+			e.printStackTrace();
+		} catch (BiffException e) {
+			e.printStackTrace();
+		}
+		return arrayExcelData;
+	}*/
+
 }

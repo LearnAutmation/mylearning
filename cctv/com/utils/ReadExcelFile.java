@@ -1,13 +1,11 @@
-/*package utils;
+package utils;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 import org.apache.poi.xssf.usermodel.XSSFSheet;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook; 
-import org.testng.annotations.Test;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
  
  
 public class ReadExcelFile {
@@ -55,4 +53,3 @@ XSSFWorkbook workbook = new XSSFWorkbook (fis);
  // return;
  }
  
-*/

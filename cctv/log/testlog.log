@@ -461,3 +461,171 @@ The account number and temporary password has been sent to friend9831@gmail.com
 2018-01-17 19:22:44,826 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (d3439492b2fd4bac2f1a35a31231f9c7)] -> xpath: .//*[@id='page-content-wrapper']/div/ul/li[2]/a]
 2018-01-17 19:22:45,742 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (d3439492b2fd4bac2f1a35a31231f9c7)] -> xpath: .//*[@href='/Content/Excel/Bulk Upload Template for T2 User.xlsx']]
 2018-01-17 19:22:45,873 - utils.TestBase -INFO - ******* T2 template download finished********
+2018-01-17 19:33:46,369 - utils.TestBase -INFO - log4j setting done
+2018-01-17 19:33:46,379 - utils.TestBase -INFO - ***********Started logging in **********
+2018-01-17 19:33:50,094 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (a2a2a35eb26882c37b7f218134dd5702)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-17 19:33:54,650 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (a2a2a35eb26882c37b7f218134dd5702)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-17 19:33:59,993 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (a2a2a35eb26882c37b7f218134dd5702)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-17 19:33:59,993 - utils.TestBase -INFO - ***********Logging in done *************
+2018-01-17 19:34:04,031 - utils.TestBase -INFO - ****************Started editing t0****************
+2018-01-17 19:34:05,713 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (a2a2a35eb26882c37b7f218134dd5702)] -> xpath: .//*[@id='searchPanel']/div/h4/a]
+2018-01-17 19:34:05,833 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (a2a2a35eb26882c37b7f218134dd5702)] -> xpath: .//*[@value="Edit Profile"]]
+2018-01-17 19:34:06,769 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (a2a2a35eb26882c37b7f218134dd5702)] -> xpath: .//*[@id='dvupdateT0user']/div/div/div[2]/input[3]]
+2018-01-17 19:34:06,770 - utils.TestBase -INFO - ****************editing t0 done****************
+2018-01-17 19:34:09,295 - utils.TestBase -INFO - ****************Search T0 started ****************
+2018-01-17 19:34:13,169 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (a2a2a35eb26882c37b7f218134dd5702)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-17 19:34:14,615 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (a2a2a35eb26882c37b7f218134dd5702)] -> xpath: .//*[@id='dvsearchT0user']/div[1]/fieldset/div[3]/button]
+2018-01-17 19:34:15,247 - utils.TestBase -INFO - Element text is--1 - 6 of 6 items
+2018-01-17 19:34:15,266 - utils.TestBase -INFO - ****************Search T0 finished ****************
+2018-01-17 19:34:22,611 - utils.TestBase -INFO - ****************Create T0 started****************
+2018-01-17 19:34:26,942 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (a2a2a35eb26882c37b7f218134dd5702)] -> xpath: .//*[@id='RegistrationPanel']/div/h4/a]
+2018-01-17 19:34:30,198 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (a2a2a35eb26882c37b7f218134dd5702)] -> xpath: //button[text()='Create New T0 Account']]
+2018-01-17 19:34:31,468 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (a2a2a35eb26882c37b7f218134dd5702)] -> xpath: .//*[@id='btnsubmitT0']]
+2018-01-17 19:34:34,600 - utils.TestBase -INFO - Element text is--T0 account T000006001 has been created.
+The account number and temporary password has been sent to alok.rai@itcinfotech.com
+2018-01-17 19:34:34,709 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (a2a2a35eb26882c37b7f218134dd5702)] -> xpath: .//*[@id='userT0Msg']/div/div/div[2]/button]
+2018-01-17 19:34:34,709 - utils.TestBase -INFO - ****************Create T0 finished****************
+2018-01-17 22:50:33,218 - utils.TestBase -INFO - log4j setting done
+2018-01-17 22:50:33,250 - utils.TestBase -INFO - ***********Started logging in **********
+2018-01-17 22:50:44,026 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (77df17cfb16bf8996ff4bd27b1c34aab)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-17 22:50:48,935 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (77df17cfb16bf8996ff4bd27b1c34aab)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-17 22:50:55,053 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (77df17cfb16bf8996ff4bd27b1c34aab)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-17 22:50:55,054 - utils.TestBase -INFO - ***********Logging in done *************
+2018-01-17 22:51:02,148 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (77df17cfb16bf8996ff4bd27b1c34aab)] -> xpath: .//*[@href="/Alert/Alerts"]]
+2018-01-17 22:51:03,527 - utils.TestBase -INFO - Selected element --All
+2018-01-17 22:53:53,324 - utils.TestBase -INFO - log4j setting done
+2018-01-17 22:53:53,361 - utils.TestBase -INFO - ***********Started logging in **********
+2018-01-17 22:53:56,844 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (3fbaa3684d4d8f71b2c8f1a2602ca5d9)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-17 22:54:00,600 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (3fbaa3684d4d8f71b2c8f1a2602ca5d9)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-17 22:54:05,946 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (3fbaa3684d4d8f71b2c8f1a2602ca5d9)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-17 22:54:05,947 - utils.TestBase -INFO - ***********Logging in done *************
+2018-01-17 22:54:12,682 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (3fbaa3684d4d8f71b2c8f1a2602ca5d9)] -> xpath: .//*[@href="/Alert/Alerts"]]
+2018-01-17 22:54:12,800 - utils.TestBase -INFO - Selected element --All
+2018-01-17 22:57:49,746 - utils.TestBase -INFO - log4j setting done
+2018-01-17 22:57:49,751 - utils.TestBase -INFO - ***********Started logging in **********
+2018-01-17 22:57:56,191 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (8b26542d41b280a00c1dc858e6089c67)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-17 22:58:02,025 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (8b26542d41b280a00c1dc858e6089c67)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-17 22:58:10,849 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (8b26542d41b280a00c1dc858e6089c67)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-17 22:58:10,849 - utils.TestBase -INFO - ***********Logging in done *************
+2018-01-17 22:58:16,146 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (8b26542d41b280a00c1dc858e6089c67)] -> xpath: .//*[@href="/Alert/Alerts"]]
+2018-01-17 22:58:16,234 - utils.TestBase -INFO - Selected element --All
+2018-01-17 22:58:20,442 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (8b26542d41b280a00c1dc858e6089c67)] -> xpath: .//*[@id='dateP']/i]
+2018-01-17 22:58:24,628 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (8b26542d41b280a00c1dc858e6089c67)] -> xpath: html/body/div[1]/div[1]/table/tbody/tr[3]/td[3]]
+2018-01-17 22:58:24,788 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (8b26542d41b280a00c1dc858e6089c67)] -> xpath: .//*[@id='alertAndAction']/div/form/div/div[4]/div/div/i]
+2018-01-17 23:02:49,275 - utils.TestBase -INFO - log4j setting done
+2018-01-17 23:02:49,275 - utils.TestBase -INFO - ***********Started logging in **********
+2018-01-17 23:02:51,781 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (d717c5997a95d8a3cf47f5b4c9b7b2c1)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-17 23:02:55,829 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (d717c5997a95d8a3cf47f5b4c9b7b2c1)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-17 23:03:01,772 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (d717c5997a95d8a3cf47f5b4c9b7b2c1)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-17 23:03:01,773 - utils.TestBase -INFO - ***********Logging in done *************
+2018-01-17 23:03:07,756 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (d717c5997a95d8a3cf47f5b4c9b7b2c1)] -> xpath: .//*[@href="/Alert/Alerts"]]
+2018-01-17 23:03:07,833 - utils.TestBase -INFO - Selected element --All
+2018-01-17 23:03:12,050 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (d717c5997a95d8a3cf47f5b4c9b7b2c1)] -> xpath: .//*[@id='dateP']/i]
+2018-01-17 23:03:16,235 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (d717c5997a95d8a3cf47f5b4c9b7b2c1)] -> xpath: html/body/div[1]/div[1]/table/tbody/tr[3]/td[3]]
+2018-01-17 23:03:16,389 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (d717c5997a95d8a3cf47f5b4c9b7b2c1)] -> xpath: .//*[@id='alertAndAction']/div/form/div/div[4]/div/div/i]
+2018-01-17 23:03:16,497 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (d717c5997a95d8a3cf47f5b4c9b7b2c1)] -> xpath: html/body/div[1]/div[1]/table/tbody/tr[3]/td[4]]
+2018-01-17 23:03:16,645 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (d717c5997a95d8a3cf47f5b4c9b7b2c1)] -> xpath: .//*[@ng-click="GetSearchedAlerts(alertSearchDTO)"]]
+2018-01-17 23:03:25,787 - utils.TestBase -INFO - Proxy element for: DefaultElementLocator 'By.xpath: .ui-grid-selection-row-header-buttons.ui-grid-icon-ok.ng-scope'not foundorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .ui-grid-selection-row-header-buttons.ui-grid-icon-ok.ng-scope' (tried for 9 second(s) with 500 MILLISECONDS interval)
+2018-01-17 23:04:32,676 - utils.TestBase -INFO - log4j setting done
+2018-01-17 23:04:32,676 - utils.TestBase -INFO - ***********Started logging in **********
+2018-01-17 23:04:40,525 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (889edc18ab67b372c6a3ef5aa58e2178)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-17 23:04:43,970 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (889edc18ab67b372c6a3ef5aa58e2178)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-17 23:04:50,964 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (889edc18ab67b372c6a3ef5aa58e2178)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-17 23:04:50,965 - utils.TestBase -INFO - ***********Logging in done *************
+2018-01-17 23:04:56,207 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (889edc18ab67b372c6a3ef5aa58e2178)] -> xpath: .//*[@href="/Alert/Alerts"]]
+2018-01-17 23:04:56,291 - utils.TestBase -INFO - Selected element --All
+2018-01-17 23:05:00,497 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (889edc18ab67b372c6a3ef5aa58e2178)] -> xpath: .//*[@id='dateP']/i]
+2018-01-17 23:05:04,703 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (889edc18ab67b372c6a3ef5aa58e2178)] -> xpath: html/body/div[1]/div[1]/table/tbody/tr[3]/td[3]]
+2018-01-17 23:05:04,853 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (889edc18ab67b372c6a3ef5aa58e2178)] -> xpath: .//*[@id='alertAndAction']/div/form/div/div[4]/div/div/i]
+2018-01-17 23:05:04,962 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (889edc18ab67b372c6a3ef5aa58e2178)] -> xpath: html/body/div[1]/div[1]/table/tbody/tr[3]/td[4]]
+2018-01-17 23:05:05,156 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (889edc18ab67b372c6a3ef5aa58e2178)] -> xpath: .//*[@ng-click="GetSearchedAlerts(alertSearchDTO)"]]
+2018-01-17 23:05:28,269 - utils.TestBase -INFO - Proxy element for: DefaultElementLocator 'By.xpath: .ui-grid-selection-row-header-buttons.ui-grid-icon-ok.ng-scope'not foundorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: .ui-grid-selection-row-header-buttons.ui-grid-icon-ok.ng-scope' (tried for 9 second(s) with 500 MILLISECONDS interval)
+2018-01-17 23:08:04,845 - utils.TestBase -INFO - log4j setting done
+2018-01-17 23:08:04,861 - utils.TestBase -INFO - ***********Started logging in **********
+2018-01-17 23:08:07,956 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (57d562d6f4bb146104deed1532547cc8)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-17 23:08:12,746 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (57d562d6f4bb146104deed1532547cc8)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-17 23:08:19,257 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (57d562d6f4bb146104deed1532547cc8)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-17 23:08:19,257 - utils.TestBase -INFO - ***********Logging in done *************
+2018-01-17 23:08:24,560 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (57d562d6f4bb146104deed1532547cc8)] -> xpath: .//*[@href="/Alert/Alerts"]]
+2018-01-17 23:08:24,661 - utils.TestBase -INFO - Selected element --All
+2018-01-17 23:09:30,119 - utils.TestBase -INFO - log4j setting done
+2018-01-17 23:09:30,119 - utils.TestBase -INFO - ***********Started logging in **********
+2018-01-17 23:09:32,806 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (71853d1c9c4d2318d21dd87ebe72c5c8)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-17 23:09:36,919 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (71853d1c9c4d2318d21dd87ebe72c5c8)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-17 23:09:42,653 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (71853d1c9c4d2318d21dd87ebe72c5c8)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-17 23:09:42,653 - utils.TestBase -INFO - ***********Logging in done *************
+2018-01-17 23:09:47,425 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (71853d1c9c4d2318d21dd87ebe72c5c8)] -> xpath: .//*[@href="/Alert/Alerts"]]
+2018-01-17 23:09:47,523 - utils.TestBase -INFO - Selected element --All
+2018-01-17 23:10:52,864 - utils.TestBase -INFO - log4j setting done
+2018-01-17 23:10:52,869 - utils.TestBase -INFO - ***********Started logging in **********
+2018-01-17 23:10:56,096 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (c93e187d62aaa4e6b86bd8956ac89374)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-17 23:11:01,274 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (c93e187d62aaa4e6b86bd8956ac89374)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-17 23:11:07,381 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (c93e187d62aaa4e6b86bd8956ac89374)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-17 23:11:07,382 - utils.TestBase -INFO - ***********Logging in done *************
+2018-01-17 23:11:13,113 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (c93e187d62aaa4e6b86bd8956ac89374)] -> xpath: .//*[@href="/Alert/Alerts"]]
+2018-01-17 23:11:20,253 - utils.TestBase -INFO - Selected element --All
+2018-01-17 23:11:27,459 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (c93e187d62aaa4e6b86bd8956ac89374)] -> xpath: .//*[@id='dateP']/i]
+2018-01-17 23:11:31,670 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (c93e187d62aaa4e6b86bd8956ac89374)] -> xpath: html/body/div[1]/div[1]/table/tbody/tr[3]/td[3]]
+2018-01-17 23:11:31,834 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (c93e187d62aaa4e6b86bd8956ac89374)] -> xpath: .//*[@id='alertAndAction']/div/form/div/div[4]/div/div/i]
+2018-01-17 23:11:31,933 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (c93e187d62aaa4e6b86bd8956ac89374)] -> xpath: html/body/div[1]/div[1]/table/tbody/tr[3]/td[4]]
+2018-01-17 23:11:32,109 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (c93e187d62aaa4e6b86bd8956ac89374)] -> xpath: .//*[@ng-click="GetSearchedAlerts(alertSearchDTO)"]]
+2018-01-17 23:11:46,365 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (c93e187d62aaa4e6b86bd8956ac89374)] -> css selector: .ui-grid-selection-row-header-buttons.ui-grid-icon-ok.ng-scope]
+2018-01-17 23:11:46,500 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (c93e187d62aaa4e6b86bd8956ac89374)] -> xpath: .//*[@ng-click="ClickToSuppress(selectedRows,alertSearchDTO);"]]
+2018-01-17 23:11:55,715 - utils.TestBase -INFO - Proxy element for: DefaultElementLocator 'By.xpath: //text()[contains(.,'The selected alert(s) will be suppressed')]'not foundorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //text()[contains(.,'The selected alert(s) will be suppressed')]' (tried for 9 second(s) with 500 MILLISECONDS interval)
+2018-01-17 23:15:51,238 - utils.TestBase -INFO - log4j setting done
+2018-01-17 23:15:51,254 - utils.TestBase -INFO - ***********Started logging in **********
+2018-01-17 23:15:57,097 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (94f25081665603900feb760a5fbe83fd)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-17 23:16:01,711 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (94f25081665603900feb760a5fbe83fd)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-17 23:16:08,416 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (94f25081665603900feb760a5fbe83fd)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-17 23:16:08,417 - utils.TestBase -INFO - ***********Logging in done *************
+2018-01-17 23:16:14,005 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (94f25081665603900feb760a5fbe83fd)] -> xpath: .//*[@href="/Alert/Alerts"]]
+2018-01-17 23:16:21,130 - utils.TestBase -INFO - Selected element --All
+2018-01-17 23:16:28,332 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (94f25081665603900feb760a5fbe83fd)] -> xpath: .//*[@id='dateP']/i]
+2018-01-17 23:16:32,527 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (94f25081665603900feb760a5fbe83fd)] -> xpath: html/body/div[1]/div[1]/table/tbody/tr[3]/td[3]]
+2018-01-17 23:16:32,689 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (94f25081665603900feb760a5fbe83fd)] -> xpath: .//*[@id='alertAndAction']/div/form/div/div[4]/div/div/i]
+2018-01-17 23:16:32,834 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (94f25081665603900feb760a5fbe83fd)] -> xpath: html/body/div[1]/div[1]/table/tbody/tr[3]/td[4]]
+2018-01-17 23:16:32,968 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (94f25081665603900feb760a5fbe83fd)] -> xpath: .//*[@ng-click="GetSearchedAlerts(alertSearchDTO)"]]
+2018-01-17 23:18:43,463 - utils.TestBase -INFO - log4j setting done
+2018-01-17 23:18:43,468 - utils.TestBase -INFO - ***********Started logging in **********
+2018-01-17 23:18:49,873 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (10f10023704d1a62bd70f09e640fc4eb)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-17 23:18:54,565 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (10f10023704d1a62bd70f09e640fc4eb)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-17 23:19:01,198 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (10f10023704d1a62bd70f09e640fc4eb)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-17 23:19:01,204 - utils.TestBase -INFO - ***********Logging in done *************
+2018-01-17 23:19:08,610 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (10f10023704d1a62bd70f09e640fc4eb)] -> xpath: .//*[@href="/Alert/Alerts"]]
+2018-01-17 23:19:20,741 - utils.TestBase -INFO - Selected element --All
+2018-01-17 23:19:27,970 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (10f10023704d1a62bd70f09e640fc4eb)] -> xpath: .//*[@id='dateP']/i]
+2018-01-17 23:19:32,171 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (10f10023704d1a62bd70f09e640fc4eb)] -> xpath: html/body/div[1]/div[1]/table/tbody/tr[3]/td[3]]
+2018-01-17 23:19:32,313 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (10f10023704d1a62bd70f09e640fc4eb)] -> xpath: .//*[@id='alertAndAction']/div/form/div/div[4]/div/div/i]
+2018-01-17 23:19:32,427 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (10f10023704d1a62bd70f09e640fc4eb)] -> xpath: html/body/div[1]/div[1]/table/tbody/tr[3]/td[4]]
+2018-01-17 23:19:32,589 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (10f10023704d1a62bd70f09e640fc4eb)] -> xpath: .//*[@ng-click="GetSearchedAlerts(alertSearchDTO)"]]
+2018-01-17 23:19:46,794 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (10f10023704d1a62bd70f09e640fc4eb)] -> css selector: .ui-grid-selection-row-header-buttons.ui-grid-icon-ok.ng-scope]
+2018-01-17 23:19:46,939 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (10f10023704d1a62bd70f09e640fc4eb)] -> xpath: .//*[@ng-click="ClickToSuppress(selectedRows,alertSearchDTO);"]]
+2018-01-17 23:19:47,571 - utils.TestBase -INFO - Element text is--The selected alert(s) will be suppressed.
+2018-01-17 23:19:57,100 - utils.TestBase -INFO - [[ChromeDriver: chrome on XP (10f10023704d1a62bd70f09e640fc4eb)] -> css selector: .btn.btnWidth.btnInline.btn-sm.btn-custom-blue]not foundorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (10f10023704d1a62bd70f09e640fc4eb)] -> css selector: .btn.btnWidth.btnInline.btn-sm.btn-custom-blue] (tried for 9 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ALOK-PC', ip: '192.168.0.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=D:\Users\Alok\AppData\Local\Temp\scoped_dir11812_8600}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=63.0.3239.132, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 10f10023704d1a62bd70f09e640fc4eb
+2018-01-17 23:22:46,817 - utils.TestBase -INFO - log4j setting done
+2018-01-17 23:22:46,817 - utils.TestBase -INFO - ***********Started logging in **********
+2018-01-17 23:22:50,674 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (5d3300f8ec91be015068b0e2b07b263c)] -> xpath: html/body/section/section/div/div/article/div/div[2]/a]
+2018-01-17 23:22:57,248 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (5d3300f8ec91be015068b0e2b07b263c)] -> xpath: html/body/section/div/section/div/form/div[2]/button[1]]
+2018-01-17 23:23:03,831 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (5d3300f8ec91be015068b0e2b07b263c)] -> xpath: .//*[@id='cred_sign_in_button']]
+2018-01-17 23:23:03,832 - utils.TestBase -INFO - ***********Logging in done *************
+2018-01-17 23:23:09,719 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (5d3300f8ec91be015068b0e2b07b263c)] -> xpath: .//*[@href="/Alert/Alerts"]]
+2018-01-17 23:23:21,890 - utils.TestBase -INFO - Selected element --All
+2018-01-17 23:23:29,088 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (5d3300f8ec91be015068b0e2b07b263c)] -> xpath: .//*[@id='dateP']/i]
+2018-01-17 23:23:33,326 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (5d3300f8ec91be015068b0e2b07b263c)] -> xpath: html/body/div[1]/div[1]/table/tbody/tr[3]/td[3]]
+2018-01-17 23:23:33,490 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (5d3300f8ec91be015068b0e2b07b263c)] -> xpath: .//*[@id='alertAndAction']/div/form/div/div[4]/div/div/i]
+2018-01-17 23:23:33,601 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (5d3300f8ec91be015068b0e2b07b263c)] -> xpath: html/body/div[1]/div[1]/table/tbody/tr[3]/td[4]]
+2018-01-17 23:23:33,752 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (5d3300f8ec91be015068b0e2b07b263c)] -> xpath: .//*[@ng-click="GetSearchedAlerts(alertSearchDTO)"]]
+2018-01-17 23:23:47,984 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (5d3300f8ec91be015068b0e2b07b263c)] -> css selector: .ui-grid-selection-row-header-buttons.ui-grid-icon-ok.ng-scope]
+2018-01-17 23:23:48,121 - utils.TestBase -INFO - Clicked element-- [[ChromeDriver: chrome on XP (5d3300f8ec91be015068b0e2b07b263c)] -> xpath: .//*[@ng-click="ClickToSuppress(selectedRows,alertSearchDTO);"]]
+2018-01-17 23:23:48,782 - utils.TestBase -INFO - Element text is--The selected alert(s) will be suppressed.
+2018-01-17 23:23:57,840 - utils.TestBase -INFO - [[ChromeDriver: chrome on XP (5d3300f8ec91be015068b0e2b07b263c)] -> css selector: .btn.btnWidth.btnInline.btn-sm.btn-custom-blue]not foundorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (5d3300f8ec91be015068b0e2b07b263c)] -> css selector: .btn.btnWidth.btnInline.btn-sm.btn-custom-blue] (tried for 9 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ALOK-PC', ip: '192.168.0.5', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=D:\Users\Alok\AppData\Local\Temp\scoped_dir12148_32136}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=63.0.3239.132, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5d3300f8ec91be015068b0e2b07b263c

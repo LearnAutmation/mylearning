@@ -90,7 +90,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">6 methods,   6 passed</span>
+                    <span class="method-stats">1 method,   1 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -101,32 +101,7 @@
                     <div class="method-list-content passed suite-testNGLearning">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-testNGLearning" title="testpages.manageuserstest" hash-for-method="creat1T1users">creat1T1users</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-testNGLearning" title="testpages.manageuserstest" hash-for-method="creatingt0user1">creatingt0user1</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-testNGLearning" title="testpages.manageuserstest" hash-for-method="downloadT2uploadTemplate">downloadT2uploadTemplate</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-testNGLearning" title="testpages.manageuserstest" hash-for-method="editt0test">editt0test</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-testNGLearning" title="testpages.manageuserstest" hash-for-method="searchT0users">searchT0users</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-testNGLearning" title="testpages.manageuserstest" hash-for-method="uploadT2users">uploadT2users</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-testNGLearning" title="testpages.AlertAndActionsTestCases" hash-for-method="searchAlerts">searchAlerts</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-testNGLearning -->
@@ -144,49 +119,14 @@
           <div class="suite-testNGLearning-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">testpages.manageuserstest</span>
+              <span class="class-name">testpages.AlertAndActionsTestCases</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="creat1T1users">
-                  </a> <!-- creat1T1users -->
-                  <span class="method-name">creat1T1users</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="creatingt0user1">
-                  </a> <!-- creatingt0user1 -->
-                  <span class="method-name">creatingt0user1</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="downloadT2uploadTemplate">
-                  </a> <!-- downloadT2uploadTemplate -->
-                  <span class="method-name">downloadT2uploadTemplate</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="editt0test">
-                  </a> <!-- editt0test -->
-                  <span class="method-name">editt0test</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="searchT0users">
-                  </a> <!-- searchT0users -->
-                  <span class="method-name">searchT0users</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="uploadT2users">
-                  </a> <!-- uploadT2users -->
-                  <span class="method-name">uploadT2users</span>
+                  <a name="searchAlerts">
+                  </a> <!-- searchAlerts -->
+                  <span class="method-name">searchAlerts</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -202,14 +142,14 @@
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite name=&quot;testNGLearning&quot;&gt;
   &lt;listeners&gt;
-    &lt;listener class-name=&quot;utils.PriorityInterceptor&quot;/&gt;
+    &lt;listener class-name=&quot;utils.TestListener&quot;/&gt;
   &lt;/listeners&gt;
   &lt;test name=&quot;simpleTest&quot;&gt;
     &lt;parameter name=&quot;password&quot; value=&quot;testpassword&quot;/&gt;
     &lt;parameter name=&quot;appURL&quot; value=&quot;https://dev2-cctv.ajilonservices.com.au&quot;/&gt;
     &lt;parameter name=&quot;browserType&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;testpages.manageuserstest&quot;/&gt;
+      &lt;class name=&quot;testpages.AlertAndActionsTestCases&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- simpleTest --&gt;
 &lt;/suite&gt; &lt;!-- testNGLearning --&gt;
@@ -249,36 +189,16 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(6);
+data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'uploadT2users')
-data.setCell(0, 2, 'testpages.manageuserstest')
-data.setCell(0, 3, 26938);
-data.setCell(1, 0, 1)
-data.setCell(1, 1, 'creat1T1users')
-data.setCell(1, 2, 'testpages.manageuserstest')
-data.setCell(1, 3, 23078);
-data.setCell(2, 0, 2)
-data.setCell(2, 1, 'creatingt0user1')
-data.setCell(2, 2, 'testpages.manageuserstest')
-data.setCell(2, 3, 13685);
-data.setCell(3, 0, 3)
-data.setCell(3, 1, 'searchT0users')
-data.setCell(3, 2, 'testpages.manageuserstest')
-data.setCell(3, 3, 13556);
-data.setCell(4, 0, 4)
-data.setCell(4, 1, 'downloadT2uploadTemplate')
-data.setCell(4, 2, 'testpages.manageuserstest')
-data.setCell(4, 3, 8904);
-data.setCell(5, 0, 5)
-data.setCell(5, 1, 'editt0test')
-data.setCell(5, 2, 'testpages.manageuserstest')
-data.setCell(5, 3, 6849);
+data.setCell(0, 1, 'searchAlerts')
+data.setCell(0, 2, 'testpages.AlertAndActionsTestCases')
+data.setCell(0, 3, 54064);
 window.suiteTableData['testNGLearning']= { tableData: data, tableDiv: 'times-div-testNGLearning'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <span class="suite-total-time">Total running time: 54 seconds</span>
               <div id="times-div-testNGLearning">
               </div> <!-- times-div-testNGLearning -->
             </div> <!-- times-div -->
@@ -304,34 +224,14 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">testpages.manageuserstest</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">testpages.AlertAndActionsTestCases</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">initializeTestBaseSetup(chrome, https://dev2-cctv.ajilonservices.com.au)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">editt0test</span>
-                <span class="method-start">25795 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">searchT0users</span>
-                <span class="method-start">32645 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">creatingt0user1</span>
-                <span class="method-start">46212 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">uploadT2users</span>
-                <span class="method-start">59899 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">creat1T1users</span>
-                <span class="method-start">86839 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">downloadT2uploadTemplate</span>
-                <span class="method-start">109920 ms</span>
+                <span class="method-name">searchAlerts</span>
+                <span class="method-start">41288 ms</span>
               </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

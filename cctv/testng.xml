@@ -8,8 +8,11 @@
 		<parameter name="password" value="testpassword" />
 
 		<classes>
-
-			<class name="testpages.T0testCases" />
+<!-- 
+			<class name="testpages.T0testCases" /> -->
+			<class name="testpages.AlertAndActionsTestCases" />
+			
+			
 
 		</classes>
 	</test>
