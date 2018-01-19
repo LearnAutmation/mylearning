@@ -2,16 +2,16 @@ package testpages;
 
 import org.testng.annotations.Test;
 
-import cctvjavapages.manageusers;
+import javapages.ManageT0;
 import utils.TestBase;
 
-public class T0testCases extends TestBase{
+public class ManageT0Test extends TestBase{
 	
 	@Test(priority = 1)
 	public void editt0test() throws Exception {
 
 		Thread.sleep(4000);
-		manageusers manage = new manageusers(driver);
+		ManageT0 manage = new ManageT0(driver);
 		manage.editt0details("alok", "Rai", "1234555555", "1235555544", "ADM");
 
 
@@ -20,7 +20,7 @@ public class T0testCases extends TestBase{
 	@Test(priority = 2)
 	public void searchT0users() throws Exception {
 		Thread.sleep(2000);
-		manageusers manage = new manageusers(driver);
+		ManageT0 manage = new ManageT0(driver);
 		manage.searchT0Users("alok", "rai");
 		Thread.sleep(5000);
 		//manage.searchOnlyArchivedT0Users();
@@ -32,7 +32,7 @@ public class T0testCases extends TestBase{
 	public void creatingt0user1() throws Exception {
 
 		Thread.sleep(2000);
-		manageusers manage1 = new manageusers(driver);
+		ManageT0 manage1 = new ManageT0(driver);
 		manage1.creatingt0user("alok.rai@itcinfotech.com", "Alok", "Rai", "12345888888");
 
 	}

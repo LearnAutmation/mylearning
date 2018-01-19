@@ -2,7 +2,7 @@ package testpages;
 
 import org.testng.annotations.Test;
 
-import cctvjavapages.AlertsandActions;
+import javapages.AlertsandActions;
 import utils.TestBase;
 
 public class AlertAndActionsTestCases extends TestBase {

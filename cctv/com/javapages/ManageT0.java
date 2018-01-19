@@ -1,5 +1,5 @@
 
-package cctvjavapages;
+package javapages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -9,7 +9,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import utils.TestBase;
 
-public class manageusers extends TestBase {
+public class ManageT0 extends TestBase {
 
 	WebDriver driver;
 	
@@ -81,7 +81,7 @@ public class manageusers extends TestBase {
 	@FindBy(xpath = ".//*[@id='archived']") @CacheLookup
 	WebElement archivedcheckbox;
 
-	public manageusers(WebDriver driver) {
+	public ManageT0(WebDriver driver) {
 
 		this.driver = driver;
 		PageFactory.initElements(driver, this);

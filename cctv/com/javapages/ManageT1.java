@@ -1,4 +1,4 @@
-package cctvjavapages;
+package javapages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import utils.TestBase;
 
-public class manageusersT1 extends TestBase {
+public class ManageT1 extends TestBase {
 
 	// WebDriver driver;
 	@FindBy(xpath = ".//*[@id='page-content-wrapper']/div/ul/li[2]/a") @CacheLookup
@@ -65,7 +65,7 @@ public class manageusersT1 extends TestBase {
 	
 	
 	
-	public manageusersT1() {
+	public ManageT1() {
 		PageFactory.initElements(driver, this);
 	}
 

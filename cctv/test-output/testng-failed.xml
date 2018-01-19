@@ -12,12 +12,14 @@
     <parameter name="appURL" value="https://test-cctv.ajilonservices.com.au"/>
     <parameter name="browserType" value="chrome"/>
     <classes>
-      <class name="testpages.AlertAndActionsTestCases">
+      <class name="testpages.ManageT1Test">
         <methods>
           <include name="initializeTestBaseSetup"/>
-          <include name="searchAlerts"/>
+          <include name="downloadT2uploadTemplate"/>
+          <include name="uploadT2users"/>
+          <include name="creat1T1users"/>
         </methods>
-      </class> <!-- testpages.AlertAndActionsTestCases -->
+      </class> <!-- testpages.ManageT1Test -->
     </classes>
   </test> <!-- simpleTest(failed) -->
 </suite> <!-- Failed suite [testNGLearning] -->

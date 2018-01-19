@@ -8,9 +8,9 @@
 		<parameter name="password" value="testpassword" />
 
 		<classes>
-<!-- 
-			<class name="testpages.T0testCases" /> -->
-			<class name="testpages.AlertAndActionsTestCases" />
+
+			<class name="testpages.ManageT1Test" /> 
+		<!-- 	<class name="testpages.AlertAndActionsTestCases" /> -->
 			
 			
 
