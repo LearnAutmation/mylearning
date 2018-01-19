@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="testNGLearning" duration-ms="95733" started-at="2018-01-17T17:52:22Z" finished-at="2018-01-17T17:53:58Z">
+  <suite name="testNGLearning" duration-ms="79930" started-at="2018-01-19T18:47:00Z" finished-at="2018-01-19T18:48:20Z">
     <groups>
     </groups>
-    <test name="simpleTest" duration-ms="95733" started-at="2018-01-17T17:52:22Z" finished-at="2018-01-17T17:53:58Z">
+    <test name="simpleTest" duration-ms="79930" started-at="2018-01-19T18:47:00Z" finished-at="2018-01-19T18:48:20Z">
       <class name="testpages.AlertAndActionsTestCases">
-        <test-method status="PASS" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:testpages.AlertAndActionsTestCases@6e6c3152]" name="initializeTestBaseSetup" is-config="true" duration-ms="41284" started-at="2018-01-17T23:22:22Z" finished-at="2018-01-17T23:23:03Z">
+        <test-method status="PASS" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:testpages.AlertAndActionsTestCases@3cef309d]" name="initializeTestBaseSetup" is-config="true" duration-ms="31047" started-at="2018-01-20T00:17:00Z" finished-at="2018-01-20T00:17:31Z">
           <params>
             <param index="0">
               <value>
@@ -16,14 +16,14 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[https://dev2-cctv.ajilonservices.com.au]]>
+                <![CDATA[https://test-cctv.ajilonservices.com.au]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeTestBaseSetup -->
-        <test-method status="PASS" signature="searchAlerts()[pri:0, instance:testpages.AlertAndActionsTestCases@6e6c3152]" name="searchAlerts" duration-ms="54064" started-at="2018-01-17T23:23:03Z" finished-at="2018-01-17T23:23:57Z">
+        <test-method status="PASS" signature="searchAlerts()[pri:0, instance:testpages.AlertAndActionsTestCases@3cef309d]" name="searchAlerts" duration-ms="48391" started-at="2018-01-20T00:17:31Z" finished-at="2018-01-20T00:18:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchAlerts -->

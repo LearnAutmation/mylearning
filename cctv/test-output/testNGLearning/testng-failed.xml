@@ -2,14 +2,14 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [testNGLearning]">
   <parameter name="password" value="testpassword"/>
-  <parameter name="appURL" value="https://dev2-cctv.ajilonservices.com.au"/>
+  <parameter name="appURL" value="https://test-cctv.ajilonservices.com.au"/>
   <parameter name="browserType" value="chrome"/>
   <listeners>
     <listener class-name="utils.TestListener"/>
   </listeners>
   <test name="simpleTest(failed)">
     <parameter name="password" value="testpassword"/>
-    <parameter name="appURL" value="https://dev2-cctv.ajilonservices.com.au"/>
+    <parameter name="appURL" value="https://test-cctv.ajilonservices.com.au"/>
     <parameter name="browserType" value="chrome"/>
     <classes>
       <class name="testpages.AlertAndActionsTestCases">

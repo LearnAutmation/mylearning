@@ -4,7 +4,7 @@
 	<test name="simpleTest">
 
 		<parameter name="browserType" value="chrome" />
-		<parameter name="appURL" value="https://dev2-cctv.ajilonservices.com.au" />
+		<parameter name="appURL" value="https://test-cctv.ajilonservices.com.au" />
 		<parameter name="password" value="testpassword" />
 
 		<classes>
@@ -19,9 +19,12 @@
 
 
 	<listeners>
-
+	
+       <!--  <listener class-name="utils.WebEventListener" /> -->
 
 		<listener class-name="utils.TestListener" />
+		
+		
 		<!-- <listener class-name="utils.PriorityInterceptor" /> -->
 
 	</listeners>

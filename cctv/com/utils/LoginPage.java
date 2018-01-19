@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage extends TestBase {
 
-	@FindBy(xpath = "html/body/section/section/div/div/article/div/div[2]/a") @CacheLookup
+	@FindBy(xpath = "/html/body/section/section/div/div/article/div/div[2]/a") @CacheLookup
 	private WebElement acceptAndContinue;
 	@FindBy(xpath = "html/body/section/div/section/div/form/div[2]/button[1]") @CacheLookup
 	private WebElement loginbutton;
